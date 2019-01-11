@@ -69,7 +69,7 @@
         android:layout_below="@+id/altitude_text"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="20dp"
-        android:text="Address :\n 123 Fake Street \n Fake Town"
+        android:text="Address :"
         android:textColor="@android:color/white"
         android:textSize="20sp" />
 
